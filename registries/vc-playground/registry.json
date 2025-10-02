@@ -1,0 +1,100 @@
+{
+  "registry": {
+    "https://www.w3.org/2018/credentials/v1": {
+      "url": "https://www.w3.org/2018/credentials/v1"
+    },
+    "https://w3id.org/security/suites/ed25519-2020/v1": {
+      "url": "https://w3id.org/security/suites/ed25519-2020/v1"
+    },
+    "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json": {
+      "url": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"
+    },
+    "https://purl.imsglobal.org/spec/ob/v3p0/context.json": {
+      "url": "https://purl.imsglobal.org/spec/ob/v3p0/context.json"
+    },
+    "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.2.json": {
+      "url": "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.2.json"
+    },
+    "https://www.w3.org/2018/credentials/examples/v1": {
+      "url": "https://www.w3.org/2018/credentials/examples/v1"
+    },
+    "https://www.w3.org/ns/credentials/examples/v2": {
+      "url": "https://www.w3.org/ns/credentials/examples/v2"
+    },
+    "https://www.w3.org/ns/odrl.jsonld": {
+      "url": "https://www.w3.org/ns/odrl.jsonld"
+    },
+    "https://w3id.org/citizenship/v1": {
+      "url": "https://w3id.org/citizenship/v1"
+    },
+    "https://contexts.vcplayground.org/examples/movie-ticket/v1.json": {
+      "url": "https://contexts.vcplayground.org/examples/movie-ticket/v1.json"
+    },
+    "https://contexts.vcplayground.org/examples/alumni/v1.json": {
+      "url": "https://contexts.vcplayground.org/examples/alumni/v1.json"
+    },
+    "https://contexts.vcplayground.org/examples/food-safety-certification/v1.json": {
+      "url": "https://contexts.vcplayground.org/examples/food-safety-certification/v1.json"
+    },
+    "https://contexts.vcplayground.org/examples/retail-coupon/v1.json": {
+      "url": "https://contexts.vcplayground.org/examples/retail-coupon/v1.json"
+    },
+    "https://contexts.vcplayground.org/examples/customer-loyalty/v1.json": {
+      "url": "https://contexts.vcplayground.org/examples/customer-loyalty/v1.json"
+    },
+    "https://contexts.vcplayground.org/examples/gs1-8110-coupon/v1.json": {
+      "url": "https://contexts.vcplayground.org/examples/gs1-8110-coupon/v1.json"
+    },
+    "https://contexts.vcplayground.org/examples/gs1-8110-coupon/v2.json": {
+      "url": "https://contexts.vcplayground.org/examples/gs1-8110-coupon/v2.json"
+    },
+    "https://w3id.org/vdl/v1": {
+      "url": "https://w3id.org/vdl/v1"
+    },
+    "https://w3id.org/vdl/aamva/v1": {
+      "url": "https://w3id.org/vdl/aamva/v1"
+    },
+    "https://w3id.org/citizenship/v2": {
+      "url": "https://w3id.org/citizenship/v2"
+    },
+    "https://w3id.org/first-responder/v1": {
+      "url": "https://w3id.org/first-responder/v1"
+    },
+    "https://www.w3.org/ns/credentials/v2": {
+      "url": "https://www.w3.org/ns/credentials/v2"
+    },
+    "https://contexts.vcplayground.org/examples/movie-ticket-vcdm-v2/v1.json": {
+      "url": "https://contexts.vcplayground.org/examples/movie-ticket-vcdm-v2/v1.json"
+    },
+    "https://w3id.org/citizenship/v4rc1": {
+      "url": "https://w3id.org/citizenship/v4rc1"
+    },
+    "https://w3id.org/vc/render-method/v2rc1": {
+      "url": "https://w3id.org/vc/render-method/v2rc1"
+    },
+    "https://examples.vcplayground.org/contexts/birth-certificate-vc-v2/v1rc1": {
+      "url": "https://examples.vcplayground.org/contexts/birth-certificate-vc-v2/v1rc1.json"
+    },
+    "https://w3id.org/citizenship/v3": {
+      "url": "https://w3id.org/citizenship/v3"
+    },
+    "https://w3id.org/vital-records/v1rc1": {
+      "url": "https://w3id.org/vital-records/v1rc1"
+    },
+    "https://w3id.org/vital-records/v1rc2": {
+      "url": "https://w3id.org/vital-records/v1rc2"
+    },
+    "https://examples.vcplayground.org/contexts/movie-ticket-vcdm-v2/v1.json": {
+      "url": "https://examples.vcplayground.org/contexts/movie-ticket-vcdm-v2/v1.json"
+    },
+    "https://examples.vcplayground.org/contexts/alumni/v2.json": {
+      "url": "https://examples.vcplayground.org/contexts/alumni/v2.json"
+    },
+    "https://w3id.org/retail-dw/v1rc1": {
+      "url": "https://w3id.org/retail-dw/v1rc1"
+    },
+    "https://w3id.org/age/v1": {
+      "url": "https://w3id.org/age/v1"
+    }
+  }
+}
